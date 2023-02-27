@@ -4,10 +4,9 @@
 using namespace std;
 
 void main() {
-	cout << "Holla";
+	cout << "Hello my friend";
 	cout << "Goodbye";
 	cout << "Hello";
-
 	cout << "Goodbye";
 
 }
