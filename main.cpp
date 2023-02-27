@@ -1,6 +1,5 @@
 #include <iostream> 
 
-//HELLO 
 using namespace std;
 
 void main() {
